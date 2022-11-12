@@ -24,7 +24,7 @@
 <div>
 
 <h2 style="margin-top:20px">Quick Start</h2>
-<p>Fork the repository - https://abhishekrajput-web/bootstrap-game.git</p>
+<p>Fork the repository - https://github.com/abhishekrajput-web/bootstrap-game.git</p>
 
 
 <h2 style="color:white;margin-top:20px">Credit For Images And Links</h2>
