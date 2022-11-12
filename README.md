@@ -1,6 +1,6 @@
 # my game website
 <h1>Basic Game Website Using Bootstrap 5 With NightMode</h1>
-<p><a href="https://abhishekrajput-web.github.io/bootstrap-game/">View The Live Website Deployment <a><p>
+<p><a href="https://abhishekrajput-web.github.io/bootstrap-game/">View The Live Website Deployment </a></p>
 
 <h2 style="color:white">Technology Used To Make This Website</h2>
 
@@ -21,7 +21,7 @@
 <img style="margin-top:20px" src="website pics/website3.jpeg">
 <img style="margin-top:20px" src="website pics/website2.jpeg">
 <img style="margin-top:20px" src="website pics/website10.jpeg">
-<div>
+</div>
 
 <h2 style="margin-top:20px">Quick Start</h2>
 <p>Fork the repository - https://github.com/abhishekrajput-web/bootstrap-game.git</p>
