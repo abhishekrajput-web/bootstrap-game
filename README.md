@@ -1,6 +1,6 @@
 # my game website
 <h1>Basic Game Website Using Bootstrap 5 With NightMode</h1>
-<p><a href="https://abhishekrajput-web.github.io/my-game-site-/">View The Live Website Deployment <a><p>
+<p><a href="https://abhishekrajput-web.github.io/bootstrap-game/">View The Live Website Deployment <a><p>
 
 <h2 style="color:white">Technology Used To Make This Website</h2>
 
@@ -24,7 +24,7 @@
 <div>
 
 <h2 style="margin-top:20px">Quick Start</h2>
-<p>Fork the repository - https://github.com/abhishekrajput-web/my-game-site-.git</p>
+<p>Fork the repository - https://abhishekrajput-web.github.io/bootstrap-game.git</p>
 
 
 <h2 style="color:white;margin-top:20px">Credit For Images And Links</h2>
@@ -37,7 +37,7 @@
 <h2 style="margin-top:20px">Author Info</h2>
 <p>Author Name - Abhishek Rajput</p>
 <p>Author Email - abhishekrajputcr7@gmail.com</p>
-<p>Author Linkedin - <a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">Linkedin Profile</a></p>
+<p>Author Linkedin - <a href="https://www.linkedin.com/in/abhishek-rajput7/">Linkedin Profile</a></p>
  
 
 <h2 style="margin-top:20px">Full Website Seen</h2>
